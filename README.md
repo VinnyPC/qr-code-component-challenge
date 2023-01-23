@@ -1,0 +1,3 @@
+Esse desafio foi muito importante para mim, porque apesar de ser básico, consegui aplicar meus conhecimentos em design responsivo, usando media queries no css. Agora esse tópico está bem mais claro na minha mente :).
+
+This challenge was very important to me, because despite being basic, I managed to apply my knowledge in responsive design, using media queries in css. Now this topic is much clearer in my mind :)
